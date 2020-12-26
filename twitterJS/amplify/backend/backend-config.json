@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "twitterjsde33875e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
